@@ -7,7 +7,7 @@ As far as you can see it's still a work in progress. I'm working on it
 Radio:
 <body>
 <audio controls>
-<source src=http://c284e7c2b685.ngrok.io/stream.mp3, type=“audio/mpeg”>
+<source src=http://c284e7c2b685.ngrok.io/stream.mp3 type=“audio/mpeg”>
 </audio>
 </body>
 
