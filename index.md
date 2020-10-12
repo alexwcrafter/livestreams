@@ -10,7 +10,7 @@ Radio:
 	Your browser does not support the audio element.
 </audio><br />
 
-Currently Playing: Snail's House - プラネット・ガール
+Currently Playing: Snail's House - インベーダー☆
 
 <br>
 ~ Ayoka_ACR/Alex_wcrafter ~
