@@ -11,7 +11,7 @@ Radio:
 </audio><br />
 
 Currently Playing: Snail's House - Hop Skip Jump<br>
-Next Up: Snail's House - Good Day <br> </br> <br>	
+Next Up: Snail's House - Good Day <br> <br>	
 
-<br></br>
+<br>
 ~ Ayoka_ACR/Alex_wcrafter ~
