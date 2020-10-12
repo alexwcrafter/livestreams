@@ -10,7 +10,7 @@ Radio:
 	Your browser does not support the audio element.
 </audio><br />
 
-Currently Playing: Snail's House - インベーダー☆
+Currently Playing: Snail's House - Lullaby
 
 <br>
 ~ Ayoka_ACR/Alex_wcrafter ~
