@@ -10,8 +10,8 @@ Radio:
 	Your browser does not support the audio element.
 </audio><br />
 
-Currently Playing: Snail's House - Hop Skip Jump<br>
-Next Up: Snail's House - Good Day <br> <br>	
+Currently Playing: Snail's House - Good Day<br>
+Next Up: - The End - <br> <br>	
 
 <br>
 ~ Ayoka_ACR/Alex_wcrafter ~
