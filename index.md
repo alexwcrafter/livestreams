@@ -10,7 +10,7 @@ Radio:
 	Your browser does not support the audio element.
 </audio><br />
 
-Currently Playing: Snail's House - 恋するSpaceGirl (VIP)
+Currently Playing: Snail's House - Aloha
 
 <br>
 ~ Ayoka_ACR/Alex_wcrafter ~
