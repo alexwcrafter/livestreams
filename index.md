@@ -10,7 +10,7 @@ Radio:
 	Your browser does not support the audio element.
 </audio><br />
 
-Currently Playing: Snail's House - Charm Point
+Currently Playing: Snail's House - Cosmic Love
 
 <br>
 ~ Ayoka_ACR/Alex_wcrafter ~
